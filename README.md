@@ -6,7 +6,7 @@
 git clone https://github.com/itamargran/datasetGenerator.git
 cd datasetGenerator
 pip install -r requirements.txt
-python main.py
+python app.py
 ```
 
-The app should now run in https://127.0.0.1:5000
+The app should now run in http://127.0.0.1:5000
